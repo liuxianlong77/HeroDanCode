@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"hero","json":{"0":{"name":"凯","HP":100,"money":0,"money_id":0,"icon":"kai"},"1":{"name":"罗德","HP":120,"money":100,"money_id":4,"icon":"luode"},"2":{"name":"冬兵","HP":150,"money":200,"money_id":4,"icon":"dongbing"}}}
